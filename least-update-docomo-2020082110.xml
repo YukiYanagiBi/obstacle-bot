@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<rdf:RDF
+  xmlns="http://purl.org/rss/1.0/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xml:lang="ja">
+
+<channel rdf:about="https://www.nttdocomo.co.jp/info/rss/network.rdf">
+    <title>NTTドコモ 重要なお知らせ（通信障害等）</title>
+    <link>https://www.nttdocomo.co.jp/info/network/index.html</link>
+    <description>お客様にご不便をおかけする重大な事象が発生した際に、お知らせを掲載いたします。</description>
+  <items>
+    <rdf:Seq>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/191001_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/190923_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/190909_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/190514_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/180906_01_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/180904_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kansai/pages/180618_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/160920_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/160428_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/160415_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/160422_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/160119_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/150928_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/150910_00_m.html"/>
+		<rdf:li rdf:resource="https://www.nttdocomo.co.jp/info/network/kanto/pages/150918_00_m.html"/>
+    </rdf:Seq>
+  </items>
+</channel>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/191001_00_m.html">  <title><![CDATA[（回復報）台風18号の影響により、一部地域でドコモの携帯電話がご利用できない状況について]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/191001_00_m.html</link>  <dc:date>2019-10-01T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/190923_00_m.html">  <title><![CDATA[（回復報）台風17号影響により、一部地域でドコモの携帯電話がご利用できない、またはご利用しづらい状況について]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/190923_00_m.html</link>  <dc:date>2019-09-23T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/190909_00_m.html">  <title><![CDATA[（回復報）台風15号の影響により、一部地域でドコモの携帯電話がご利用できない、またはご利用しづらい状況について]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/190909_00_m.html</link>  <dc:date>2019-09-19T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/190514_00_m.html">  <title><![CDATA[【回復】通信設備の故障により、東京都神津島でドコモの通信サービスがご利用できない、またはご利用しづらい状況について（2019年5月15日　午後2時30分現在）]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/190514_00_m.html</link>  <dc:date>2019-05-14T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/180906_01_m.html">  <title><![CDATA[【回復】北海道胆振地方中東部を震源とする地震の影響により、一部地域でドコモの通信サービスがご利用できない、またはご利用しづらい状況について（2018年9月26日　午後4時00分現在）]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/180906_01_m.html</link>  <dc:date>2018-09-06T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/180904_00_m.html">  <title><![CDATA[【回復報】台風21号の影響により、一部地域でドコモの携帯電話がご利用できない、またはご利用しづらい状況について（2018年9月21日午後4時00分現在）]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/180904_00_m.html</link>  <dc:date>2018-09-04T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kansai/pages/180618_00_m.html">  <title><![CDATA[【初報・回復報】大阪府北部を中心とした地震の影響について (2018年6月25日 午後4時現在)]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kansai/pages/180618_00_m.html</link>  <dc:date>2018-06-25T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/160920_00_m.html">  <title><![CDATA[【回復】台風16号の影響により、一部地域でドコモの携帯電話がご利用いただけない、またはご利用しづらい状況について (2016年9月24日 午後2時30分現在)]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/160920_00_m.html</link>  <dc:date>2016-09-24T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/160428_00_m.html">  <title><![CDATA[平成28年熊本地震の避難所等へのご支援]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/160428_00_m.html</link>  <dc:date>2016-04-28T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/160415_00_m.html">  <title><![CDATA[【回復】（第３１報）平成28年熊本地震の影響および取り組み状況について (2016年4月27日 午後3時48分現在)]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/160415_00_m.html</link>  <dc:date>2016-04-27T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/160422_00_m.html">  <title><![CDATA[【回復】ドコモの携帯電話（ＬＴＥ）をご契約の一部のお客様において、音声通話（ＶｏＬＴＥ）がご利用できない状況について (2016年4月22日 午後11時18分現在)]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/160422_00_m.html</link>  <dc:date>2016-04-23T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/160119_00_m.html">  <title><![CDATA[【回復】発達した低気圧の影響により、一部地域でドコモの携帯電話がご利用いただけない、またはご利用しづらい状況について (2016年1月24日 午後7時43分現在)]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/160119_00_m.html</link>  <dc:date>2016-01-24T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/150928_00_m.html">  <title><![CDATA[【回復】台風21号の影響により、一部地域でドコモの携帯電話がご利用いただけない、または、ご利用しづらい状況について (2015年10月1日 午後2時45分現在)]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/150928_00_m.html</link>  <dc:date>2015-10-01T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/150910_00_m.html">  <title><![CDATA[【回復】台風18号及びその後の大雨の影響により、一部地域でドコモの携帯電話がご利用いただけない、またはご利用しづらい状況について (2015年9月22日 午後1時19分現在)]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/150910_00_m.html</link>  <dc:date>2015-09-22T00:00:00+09:00</dc:date></item>
+<item rdf:about="https://www.nttdocomo.co.jp/info/network/kanto/pages/150918_00_m.html">  <title><![CDATA[【回復】静岡県の一部地域で携帯電話サービスがご利用しづらい状況について  (2015年9月18日 午前7時42分現在)]]></title>  <link>https://www.nttdocomo.co.jp/info/network/kanto/pages/150918_00_m.html</link>  <dc:date>2015-09-18T00:00:00+09:00</dc:date></item>
+
+</rdf:RDF>
